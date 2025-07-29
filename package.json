@@ -1,13 +1,15 @@
 {
-  "name": "bajaj-app",
+  "name": "bajaj",
   "version": "1.0.0",
-  "main": "index.js", // or your entry file
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js" // or "server.js" etc.
+    "start": "index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "body-parser": "^2.2.0",
-    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
